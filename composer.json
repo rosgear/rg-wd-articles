@@ -18,7 +18,7 @@
     "extra": {
         "ge": {
             "id": "rg.wd.articles",
-            "vendor": "ge"
+            "vendor": "rg"
         }
     },
     "minimum-stability": "dev",
